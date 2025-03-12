@@ -1,7 +1,7 @@
 # 빅데이터 개론
 ***
 ### `시험 문제에 '빅데이터를 정의하시오'나올 수 있다`
-# `3초` -  초진흥시대
+## `3초` -  초진흥시대
 - 4차 산업혁명 D.N.A (Data Network AI)<br>
 - ICBM 시대 (IoT cloud BigData Mobile)<br>
 - (정보사회의 패러다임의 변화와 힘의 이동) 스마트 시대 AWES/ Open AI<br>
